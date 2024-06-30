@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Freerouting Laucher",
   "main": "frl.js",
+  "scripts": {
+    "test": "echo"
+  },
   "bin": {
     "freerouting-launcher": "freerouting-launcher.js"
   },
